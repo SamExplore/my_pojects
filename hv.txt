@@ -1,0 +1,23 @@
+Camera: 
+Canon $200 
+Nikon $350
+ 
+Phones:
+Iphone9 $ 199
+Samsungs6 $100
+Iphone8   $200
+
+Laptop:
+Macbook pro $1,200
+Macbook air $1,500
+
+Television:
+Samsung  $500
+
+Virtual Reality:
+Samsung $500
+
+Speaker:
+Havit $199
+Visonik $159
+Amazon $299 
